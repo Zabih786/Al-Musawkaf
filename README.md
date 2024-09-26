@@ -34,7 +34,7 @@ SYSTEM SCREENSHOTS
 <img src = "05.png" width ="1000" />
 <img src = "06.png" width ="1000" />
 
-Prototype Links
+PROTOTYPE LINKS
 
 Admin Side : https://xd.adobe.com/view/c2fb45a0-a4e4-46f5-b4b9-a492ccf82957-97a8/
 
