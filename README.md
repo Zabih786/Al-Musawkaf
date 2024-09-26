@@ -32,3 +32,10 @@ SYSTEM SCREENSHOTS
 <img src = "03.png" width ="1000" />
 <img src = "04.png" width ="1000" />
 <img src = "05.png" width ="1000" />
+<img src = "06.png" width ="1000" />
+
+Prototype Links
+
+Admin Side : https://xd.adobe.com/view/c2fb45a0-a4e4-46f5-b4b9-a492ccf82957-97a8/
+
+Client Side : https://xd.adobe.com/view/aa2e87d4-6b5f-46d6-a9b7-4199914362d6-ff7d/
